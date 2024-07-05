@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Resumify/static/css/main.e78ce352.css",
+    "main.js": "/Resumify/static/js/main.17a7a4d2.js",
+    "static/media/resume.svg": "/Resumify/static/media/resume.e9ef6896884d64ab3f5fa54e9e43e3c0.svg",
+    "index.html": "/Resumify/index.html",
+    "main.e78ce352.css.map": "/Resumify/static/css/main.e78ce352.css.map",
+    "main.17a7a4d2.js.map": "/Resumify/static/js/main.17a7a4d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e78ce352.css",
+    "static/js/main.17a7a4d2.js"
+  ]
+}
